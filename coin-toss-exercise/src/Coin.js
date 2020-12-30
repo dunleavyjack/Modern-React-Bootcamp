@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
+import './Coin.css'
 
 class Coin extends Component{
     render(){
-        let altText = this.props.flipStatus
-        let imgSrc = `./images/${this.props.flipStatus}.jpg`
         return(
-            <img src={imgSrc} alt={altText}></img>
+            <div className="Coin">
+                <img src={this.props.flipStatus} />
+            </div>
         )
     }
 }
