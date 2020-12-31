@@ -1,0 +1,44 @@
+.Box{
+    height: 250px;
+    width: 250px;
+}
+
+.Box-black{
+    background-color: black;
+}
+
+.Box-orange{
+    background-color: orange;
+}
+
+.Box-yellow{
+    background-color: yellow;
+}
+
+.Box-green{
+    background-color: green;
+}
+
+.Box-purple{
+    background-color: purple;
+}
+
+.Box-gray{
+    background-color: gray;
+}
+
+.Box-teal{
+    background-color: teal;
+}
+
+.Box-blue{
+    background-color: blue;
+}
+
+.Box-indigo{
+    background-color: indigo;
+}
+
+.Box-red{
+    background-color: red;
+}
